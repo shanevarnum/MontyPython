@@ -11,7 +11,8 @@ The first item in the pipeline is The Big Data Energy Project. Essentially the r
 * Build ETL setup and deployment environment 
 * Determine data sources
 * Create ML model (something simple lets just predict somethin')
-* Store the new data and analyze/visualize it
+* Store the data in the data repo - not sure if another DB setup is needed yet
+* Display the data on an interactive Django page
 
 Simple, right?
 
